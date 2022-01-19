@@ -1,0 +1,53 @@
+#bookshelves {
+    background-color: #e3f2fd;
+    border: 2px solid #64b5f6;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+
+#lib-button {
+    background-color: #ffb74d;
+    margin-left: auto;
+    color: black;
+    border-radius: 5px;
+}
+
+#lib-button:hover {
+    background-color: #ffb74d;
+    margin-left: auto;
+    color: white;
+    border-radius: 5px;
+}
+
+.library {
+    font-size: 30px;
+    font-weight: 500;
+    text-align: end;
+}
+
+.page-label{
+    background-color: #ffe0b2;
+    border: 3px solid #ffb74d;
+    border-radius: 20px;
+    margin-top: 50px;
+}
+
+h2 {
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+.collection {
+    border: 0px;
+}
+
+.no-book {
+    font-size: 30px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.delete-confirm {
+    font-size: 20px;
+    font-weight: 500;
+}

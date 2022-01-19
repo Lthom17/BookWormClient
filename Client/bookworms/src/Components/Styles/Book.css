@@ -1,0 +1,80 @@
+.icon-size {
+    font-size: 150px;
+    margin: 10px;
+}
+
+.card .card-content {
+    font-size: 18px;
+    background-color: #e3f2fd;
+
+}
+
+#library{
+    font-size: 18px;
+    background-color: #e3f2fd;
+}
+
+.row {
+    margin-bottom: 10px;
+}
+
+.header {
+    background-color: #64b5f6;
+    border: 10px solid #64b5f6;
+    margin-bottom: 0px;
+    color: white;
+    font-weight: 600;
+    border-top-left-radius: 15px;
+    border-top-Right-radius: 15px;
+}
+
+.card{
+    margin-top: 0px;
+    border-radius: 15px;
+}
+
+.card-image{
+    background-color: #000000;
+    border-bottom-left-radius: 15px;
+    overflow: hidden;
+}
+
+.data-label {
+    font-weight: 600;
+}
+
+.card .card-action {
+    background-color: #64b5f6;
+    font-weight: 500;
+    padding: 10px;
+}
+
+/*Round image in bottom left*/
+/* .card.horizontal .card-image img {
+    border-bottom-left-radius: 15px;
+} */
+
+/*Round action bar in bottom right*/
+.card .card-action:last-child {
+    border-bottom-right-radius: 15px;
+}
+
+.dropdown-row{
+    position:relative;
+}
+
+
+#actions {
+    margin-bottom: 0;
+}
+
+/* For controlling "Add to" button colors on hover */
+#button:hover {
+    color: #ffb74d;
+}
+
+#button {
+    color: #ffffff;
+}
+
+

@@ -1,0 +1,68 @@
+.page-label{
+    background-color: #ffe0b2;
+    border: 3px solid #ffb74d;
+    border-radius: 20px;
+    margin-top: 50px;
+}
+
+h2 {
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+.collapsible-header {
+    background-color: #64b5f6;
+    margin-bottom: 0px;
+    border-bottom: 0;
+    border-radius: 12px;
+
+}
+
+.collapsible-body {
+    background-color: #e3f2fd;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    font-size: 20px;
+}
+
+.collapsible {
+    border: 0px;
+    -webkit-box-shadow: none;
+}
+
+.group {
+    font-size: 30px;
+    font-weight: 600;
+    color: white;
+    text-align: end;
+}
+
+#group-icon {
+    font-size: 50px;
+    margin-right: 50px;
+}
+
+#group-button {
+    background-color: #ffb74d;
+    margin-left: auto;
+    color: black;
+    border-radius: 5px;
+}
+
+#group-button:hover {
+    background-color: #ffb74d;
+    margin-left: auto;
+    color: white;
+    border-radius: 5px;
+}
+
+h5 {
+    font-weight: 600;
+}
+
+.group-li {
+    margin-bottom: 20px;
+    border: 2px solid #64b5f6;
+    background-color: #e3f2fd;
+    border-radius: 15px;
+}
