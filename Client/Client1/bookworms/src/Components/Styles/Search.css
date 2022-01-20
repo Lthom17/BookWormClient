@@ -1,0 +1,16 @@
+.page-label{
+    background-color: #ffe0b2;
+    border: 3px solid #ffb74d;
+    border-radius: 20px;
+    margin-top: 50px;
+}
+
+h2 {
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+.modal-spacing {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}

@@ -1,0 +1,24 @@
+#search {
+    background-color: #e3f2fd;
+    max-height: 35px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.brand-logo {
+    margin-top: 5px;
+    margin-left: 25px;
+    height: 85%;
+    /* border-radius: 10px;
+    border: 2px black solid */
+}
+
+.input-field .prefix.active {
+    color: white;
+}
+
+.brand-logo-img {
+    height: 100%;
+    /* border-radius: 10px;
+    border: 2px black solid */
+}
